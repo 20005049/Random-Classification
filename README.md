@@ -20,10 +20,9 @@ One of the most important features of the Random Forest Algorithm is that it can
 
 ## Program:
 ```
-
-Program to implement random classification.
-Developed by   : SRI HARISH M
-RegisterNumber : 212220230047
+###EX NO:01
+###DATE:1-04-22
+#<P align="center". RANDOM CLASSIFICATION</P>
 ```
 ```python
 import matplotlib.pyplot as plt
